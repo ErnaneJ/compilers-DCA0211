@@ -1,11 +1,11 @@
 gcc -o q1/main.out q1/main.c
 
 echo "-------------------\n"
-time ./q1/main.out --attempt 1
+time ./U1/question_1/main.out --attempt 1
 echo "\n-------------------\n"
-time ./q1/main.out --attempt 2
+time ./U1/question_1/main.out --attempt 2
 echo "\n-------------------\n"
-time ./q1/main.out --attempt 3
+time ./U1/question_1/main.out --attempt 3
 echo "\n-------------------\n"
-time ./q1/main.out --attempt 4
+time ./U1/question_1/main.out --attempt 4
 echo "\n-------------------"
