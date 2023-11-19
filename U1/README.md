@@ -3,7 +3,7 @@
 ## Part 1
 
 - [x] [Question 1](./question_1);
-- [ ] [Question 2](./question_2);
+- [x] [Question 2](./question_2);
 - [x] [Question 3](./question_3);
 - [ ] [Question 4](./question_4);
 - [ ] [Question 5](./question_5);
