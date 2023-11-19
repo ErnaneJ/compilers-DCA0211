@@ -1,6 +1,6 @@
 # Questão 01
 
-Escreva códigos na linguagem C que inicializam uma matriz A quadrada de 100000 linhas em um espaço de endereços contíguo utilizando os 4 tipos de código abaixo. Compile os códigos com  seu  compilador  favorito  e  temporize  a  execução  dos  programas  resultantes  com  o comando time do Linux. Observe se há diferenças de desempenho e explique a importância das suas observações no projeto de compiladores.
+**Escreva códigos na linguagem C que inicializam uma matriz A quadrada de 100000 linhas em um espaço de endereços contíguo utilizando os 4 tipos de código abaixo. Compile os códigos com  seu  compilador  favorito  e  temporize  a  execução  dos  programas  resultantes  com  o comando time do Linux. Observe se há diferenças de desempenho e explique a importância das suas observações no projeto de compiladores.**
 
 [Programa](./main.c)
 
