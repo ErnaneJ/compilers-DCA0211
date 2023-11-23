@@ -9,7 +9,7 @@
 - [x] [Question 5](./question_5);
 - [x] [Question 6](./question_6);
 - [x] [Question 7](./question_7);
-- [ ] [Question 8](./question_8);
+- [x] [Question 8](./question_8);
 
 ## Part 2
 
@@ -18,3 +18,8 @@
 - [ ] [Question 11](./question_11);
 - [ ] [Question 12](./question_12);
 - [ ] [Question 13](./question_13);
+
+## Part 5
+
+- [ ] [Question 14](./question_14);
+- [ ] [Question 15](./question_15);
