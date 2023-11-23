@@ -1,4 +1,4 @@
-# Question 9
+# Questão 9
 
 **Explique as duas principais causas de ambiguidade em gramáticas livre de contexto. Por que é importante para um parser que a gramática livre de contexto empregada não seja ambígua? Quais as formas de resolver esse problema?**
 

@@ -1,4 +1,4 @@
-# Question 8
+# Questão 8
 
 **Apresente o algoritmo de scanner controlado por tabela e codificado diretamente para o reconhecimento de um fluxo de palavras e explique seu funcionamento com um exemplo.**
 

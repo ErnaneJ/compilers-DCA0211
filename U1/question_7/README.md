@@ -1,4 +1,4 @@
-# Question 7
+# Questão 7
 
 **Explique, com um exemplo, como funciona a abordagem de minimização de um AFD.**
 

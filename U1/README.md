@@ -14,7 +14,7 @@
 ## Part 2
 
 - [x] [Question 9](./question_9);
-- [ ] [Question 10](./question_10);
+- [x] [Question 10](./question_10);
 - [ ] [Question 11](./question_11);
 - [ ] [Question 12](./question_12);
 - [ ] [Question 13](./question_13);
