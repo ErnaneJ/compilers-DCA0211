@@ -13,7 +13,7 @@
 
 ## Part 2
 
-- [ ] [Question 9](./question_9);
+- [x] [Question 9](./question_9);
 - [ ] [Question 10](./question_10);
 - [ ] [Question 11](./question_11);
 - [ ] [Question 12](./question_12);
