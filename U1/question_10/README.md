@@ -2,7 +2,7 @@
 
 **Explique o que pode acontecer com um parser top-down se a gramática utilizada tiver recursão à esquerda. Como isso pode ser resolvido?**
 
-Quando uma gramática possui recursão à esquerda e um parser top-down é utilizado, pode ocorrer um problema denominado "parsing determinístico". Isso ocorre pois um parser top-down realiza a execução de uma correspondência com as regras da gramática e quando encontra uma produção à esquerda, pode ficar preso em um loop 'infinito' tentando escolher entre as opções possíveis. Por exemplo:
+Quando uma gramática possui recursão à esquerda e um parser top-down é utilizado podemos ter problemas de parsing. Isso ocorre pois um parser top-down realiza a execução de uma correspondência com as regras da gramática e quando encontra uma produção à esquerda, pode ficar preso em um loop 'infinito' tentando escolher entre as opções possíveis. Por exemplo:
 
 A Gramática abaixo possui recursão à esquerda:
 
