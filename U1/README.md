@@ -21,5 +21,5 @@
 
 ## Part 5
 
-- [ ] [Question 14](./question_14);
-- [ ] [Question 15](./question_15);
+- [/] [Question 14](./question_14);
+- [/] [Question 15](./question_15);

@@ -7,7 +7,7 @@
 |1 | Exp    |`->`| Expr + Term   |
 |2 |        |`OR`| Expr - Term   |
 |3 |        |`OR`| Term          |
-|4 | Term   |`->`| Term          |
+|4 | Term   |`->`| Term / Factor |
 |5 |        |`OR`| Term * Factor |
 |6 |        |`OR`| Factor        |
 |7 | Factor |`->`| number        |
